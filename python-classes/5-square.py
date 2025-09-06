@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines a Square class with size property, area calculation, and visual print."""
+"""Defines a Square class with size, area calculation, and visual print."""
 
 
 class Square:
