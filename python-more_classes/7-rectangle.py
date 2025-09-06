@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a Rectangle class with customizable print symbol and instance tracking."""
+"""Defines a Rectangle class with customizable print symbol
+and instance tracking."""
 
 
 class Rectangle:
